@@ -14,8 +14,9 @@
 ## Installation and Setup
 
 1. Clone the repository or download it as a .zip file
-2. Install the required dependencies for the frontend using "npm install" and backend components(maven clean install).
-3. In the backend (login-back/src/main/resources/application.properties), configure the MySQL database setting, notably username and password
+2. Install the required dependencies for the frontend using "npm install" while in the login-front folder (root/login-front).
+3. Perform a clean install on the backend components if necessary (maven clean install).
+4. In the backend (login-back/src/main/resources/application.properties), configure the MySQL database setting, notably username and password
 
 ![image](https://i.imgur.com/yjQLQ0V.png)
 
